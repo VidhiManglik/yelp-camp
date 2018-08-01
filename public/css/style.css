@@ -1,0 +1,23 @@
+/*Nav bar*/
+nav{
+    margin-bottom:10px;
+}
+
+/*Show page*/
+.img-thumbnail img{
+    width: 100%;
+}
+.img-thumbnail{
+    margin-bottom:10px;
+}
+.card{
+    padding:.25rem;;
+}
+.text-right {
+    padding: 10px 0;
+    border-bottom: 1px solid gray;
+}
+
+#delete-form{
+    display: inline;
+}
